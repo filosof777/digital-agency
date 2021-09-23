@@ -286,7 +286,7 @@ a {
 
 .work {
   padding: 145px 0;
-  background-color: #E5E5E5;
+  background-color: var(--colo-ffffff);
 }
 
 .work__title {
